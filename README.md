@@ -1,46 +1,33 @@
 <div align="center">
-  <h1>Hi 👋, I'm a starting developer</h1>
-  <p>A passionate frontend developer from Czechia 🇨🇿</p>
+  <h1>coudekk</h1>
+  <p><em>full stack • czechia</em></p>
+  <p><code>"burn, never fade."</code></p>
 </div>
 
----
+<hr style="border: 0; height: 1px; background: #333; margin: 20px 0;">
 
-<h2>🚀 Languages and Tools I Use</h2>
+### 🌑 about
+- 💻 writing code & building systems
+- ⚡ soldering, hardware & deep electrotechnics
+- 📡 networks, RF, and telecom infrastructure
+- ☕ late nights, clean execution, zero noise
 
-<h3>💻 Programming & Markup Languages</h3>
+<hr style="border: 0; height: 1px; background: #333; margin: 20px 0;">
+
+### ⚔️ stack
+
 <p>
-  <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
-  <a target="_blank" href="https://www.typescriptlang.org/" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /></a>
-  <a target="_blank" href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" /></a>
-  <a target="_blank" href="https://www.python.org/" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
-  <a target="_blank" href="https://www.java.com/" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" /></a>
-  <a target="_blank" href="https://isocpp.org/" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /></a>
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python" />
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java" />
+  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
 </p>
 
-<h3>⚛️ Frameworks & Runtimes</h3>
-<p>
-  <a target="_blank" href="https://react.dev/" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" /></a>
-  <a target="_blank" href="https://nodejs.org/" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" /></a>
-</p>
+<hr style="border: 0; height: 1px; background: #333; margin: 20px 0;">
 
----
-
-<h2>🌱 What I'm Currently Working On</h2>
-<ul>
-  <li>Building responsive web applications with <strong>React</strong> and <strong>TypeScript</strong>.</li>
-  <li>Strengthening my fundamentals in JavaScript and backend development with <strong>Node.js</strong>.</li>
-</ul>
-
-<h2>🎧 My Favorite Playlist</h2>
-<p>
-  <a href="https://open.spotify.com/playlist/767kZJQKdgBgRT48lm47e2?si=963b9617d97c40b5" target="_blank">
-    <img src="https://img.shields.io/badge/Spotify-Listen%20on%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist" />
-  </a>
-  
-</p>
-<h2>⚡️ Where to Find Me</h2>
-<p>
-  <a target="_blank" href="https://www.instagram.com/coudekk" style="display: inline-block;">
-    <img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" />
-  </a>
-</p>
+### 👁️ connect
+- 🌐 <a href="https://www.instagram.com/coudekk" target="_blank" style="color: inherit; text-decoration: none;">instagram</a>
