@@ -2,7 +2,6 @@
   <h1>coudekk</h1>
   <p><em>full stack • czechia</em></p>
   <p><code>"burn, never fade."</code></p>
-  <p><code>"hořet, nevyhořet"</code></p>
 </div>
 
 <hr style="border: 0; height: 1px; background: #333; margin: 20px 0;">
